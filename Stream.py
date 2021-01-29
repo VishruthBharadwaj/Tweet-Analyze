@@ -9,18 +9,14 @@ import json
 
 import pandas as pd
 
-'''
+
 consumer_key = "sAcCBILBdhdfNuRmFuzZFZLCK"
 consumer_secret = "crrWltPZt3cCv1G8RzCRDlRYPemWYWQgIReGJAAniOU4pOL4fn"
 access_key = "1353293981384232965-QKR7IaxJoUfOkAwmQkCQC9PuSsihYj"
-access_secret = "TJny0NFXeUH31mmthW55j5J3EjBZvzaeMbloo2xYKRTG4"'''
+access_secret = "TJny0NFXeUH31mmthW55j5J3EjBZvzaeMbloo2xYKRTG4"
 
 
 
-consumer_key = "GukVEQqENGxOzKItNQH8WzLnV"
-consumer_secret = "y8fnCnbAvVpenm6tG7vDc6EFYnuE6fI6gS2ag0qhAWvqhLMyGj"
-access_key = "76901740-uobZSTxtFQd8mVtNgwWcLHw4IrW8UoEI9xInsKfoQ"
-access_secret = "jYC0L0fZVU4lHhc2TOWt35dFHyRy83bbPDAm8hZVi9Tw5"
 
 
 
