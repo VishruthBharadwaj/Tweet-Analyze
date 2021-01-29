@@ -3,11 +3,9 @@
 
 # First Switch MySQL Server and redirect to panel.
 
-# Install tweepy, mysql.connector, pandas   using pip install:
+Install tweepy, mysql.connector, pandas   using pip install:
 
-# Used XamppServer panel and redirect to
-
-# http://127.0.0.1/phpmyadmin/
+Used XamppServer panel and redirect to   http://127.0.0.1/phpmyadmin/
 
 
 # Before running the script please check the following data:
