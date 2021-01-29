@@ -3,12 +3,12 @@
 
 # First Switch MySQL Server and redirect to panel.
 
-Install tweepy, mysql.connector, pandas   using pip install:
+Install tweepy, mysql.connector, pandas.
 
 Used XamppServer panel and redirect to   http://127.0.0.1/phpmyadmin/
 
 
-# Before running the script please check the following data:
+# Before running the script please check the following data inside Stream.py:
 
 
  In StreamListener() have imported StreamListener and status for actual streaming data.
@@ -17,19 +17,19 @@ Used XamppServer panel and redirect to   http://127.0.0.1/phpmyadmin/
 # Script will fetch following details:
 
 
-1) name of the user
+1) Name of the user
 
-2) tweet created date and time
+2) Tweet created date and time
 
-3) location of user
+3) Location of user
 
-4) coordinates of user
+4) Coordinates of user
 
-5) followers count 
+5) Followers count 
 
-6) description of user profile
+6) Description of user profile
 
-7) text tweeted
+7) Text tweeted
 
 
 
