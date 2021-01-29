@@ -59,7 +59,7 @@
 
 
 
-# If you run the script inside your mysql account please create DB named as twitter and table name as twitter data and column names as
+# If you run the script inside your MySql account please create DB named as twitter and table name as twitter data and column names are as follow:
 
 1)name (varchar)
 
